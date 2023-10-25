@@ -1,0 +1,3 @@
+Application (client) ID : 0ccf61c3-34a7-4f98-a83e-2e1cd615a18a
+             secret key : OWT8Q~Ire4R6nAom_3O03HqiNw1TYOYBCBp4gcKb
+Directory (tenant) ID   : 786b4dbc-4810-45a9-85ef-a987ecd7ef4d
